@@ -1,2 +1,30 @@
-# awesome-ck3
-This repository will be two things: a list of resources for CK3 modding in the style of the [awesome lists](https://github.com/sindresorhus/awesome) and a wiki to help with practical modding
+# Awesome CK3 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A list of resources for modding CK3 as well as Github Pages to index guides
+
+
+## Contents
+
+- [Section](#section)
+- [Another Section](#another-section)
+
+
+## Section
+
+About this section. Optional. Keep this short and focus on the list.
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Another Section
+
+### Subsection
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
