@@ -89,6 +89,7 @@ Useful tools and applications for modding or mod management.
 
 - [CWTools](https://cwtools.github.io): a syntax analysis tool that can be used in IDE (VSCode) or some custom projects (used in Irony Mod Manager for example)
 - [PDX Unlimiter](https://github.com/crschnick/pdx_unlimiter): a save editing software for Paradox games. Raw CK3 save editing is supported though advanced and more fancy editing GUI tools are still to come
+- [CK3 ML Translator](https://github.com/theNicelander/ck3_ml_translator): a python 3.9 module to translate all localisation files for Crusader Kings 3 mods
 
 ## Contribute
 
