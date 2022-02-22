@@ -5,7 +5,6 @@
 - [Wiki](#wiki)
 - [Communities](#communities)
 - [Help](#help)
-  - [Websites](#websites)
   - [Documentation](#documentation)
   - [Guides and tutorials](#guides-and-tutorials)
     - [General advice](#general-advice)
@@ -25,16 +24,13 @@
 
 ## Communities
 
+You can find help and fellow modders in theses places.
+
 - [CK3 User Mods](https://forum.paradoxplaza.com/forum/forums/crusader-kings-iii-user-mods.1080/): official forum for CK3 mods
 - [Crusader Kings](https://discord.gg/ck3): Crusader Kings official Discord modding channel. Go to the server-roles channel and choose CK3 Modding in the [Channel Access post](https://discordapp.com/channels/616881873506795550/710484698924711976/710490306788982804)
 - [CK3 Mod Co-op](https://discord.gg/apEvxDZ): this discord is where you can recruit people for your mod, show off stuff, and ask modders for help when you need it. It also serves as a central hub for modding in CK3. You can find invite links to most large mods on it.
 
 ## Help
-
-### Websites
-
-About this section. Optional. Keep this short and focus on the list.
-These are official and unofficial documentation about the CK3 script language.
 
 ### Documentation
 
