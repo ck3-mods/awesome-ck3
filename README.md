@@ -4,17 +4,19 @@
 
 ## Contents
 
-- [Help](#help)
-  - [Websites](#websites)
-  - [Documentation](#documentation)
-  - [Guides and tutorials](#guides-and-tutorials)
-    - [Videos](#videos)
-- [Software and applications](#software-and-applications)
-  - [Mod management](#mod-management)
-  - [Graphical modding](#graphical-modding)
-  - [Other Tools](#other-tools)
-- [Communities](#communities)
-- [Contribute](#contribute)
+- [Awesome CK3 ![Awesome](https://awesome.re)](#awesome-ck3-)
+  - [Contents](#contents)
+  - [Help](#help)
+    - [Websites](#websites)
+    - [Documentation](#documentation)
+    - [Guides and tutorials](#guides-and-tutorials)
+      - [Videos](#videos)
+  - [Software and applications](#software-and-applications)
+    - [Mod management](#mod-management)
+    - [Graphical modding](#graphical-modding)
+    - [Other Tools](#other-tools)
+  - [Communities](#communities)
+  - [Contribute](#contribute)
 
 ## Help
 
@@ -38,11 +40,24 @@ These are official and unofficial documentation about the CK3 script language.
 
 These resources will guide you through CK3 modding.
 
-- [Event modding](https://ck3.paradoxwikis.com/Event_modding): official event modding guide on the CK3 wiki
-- [Dev diary #30](https://forum.paradoxplaza.com/forum/developer-diary/crusader-kings-3-dev-diary-30-event-scripting.1397140/): an official dev diary on event scripting
+#### General advice
+
 - [Dev diary #37](https://forum.paradoxplaza.com/forum/developer-diary/ck3-dev-diary-37-making-mods.1410656/): an official dev diary on mod making: mod compatibility, character interaction, scripted GUI, and notifications
 - [Jomini information thread](https://forum.paradoxplaza.com/forum/threads/grand-jomini-modding-information-manuscript.1170261/): information about Jomini, the shared Clausewitz engin library. Useful to understand broadly how scopes, events and other stuff works
 - [CK3 quick start to Modding](https://docs.google.com/document/d/1Tbayk3WBcCyl3d78jm6XcxsDxSsBTmHeVHJ2hrAvlrY/edit): a quick and dirty guide to CK3 modding, quite minimalistic but with links to a few tutorial videos
+
+#### Events
+
+- [Event modding](https://ck3.paradoxwikis.com/Event_modding): official event modding guide on the CK3 wiki
+- [Dev diary #30](https://forum.paradoxplaza.com/forum/developer-diary/crusader-kings-3-dev-diary-30-event-scripting.1397140/): an official dev diary on event scripting
+
+#### UI
+
+- [Unified UI CK3](https://github.com/Gr770/UnifiedUICK3): the most imprtant to check is the [wiki](https://github.com/Gr770/UnifiedUICK3/wiki), with a lot of good advices on how to make your UI modifications compatible with most mods
+
+#### 3D modeling
+
+- [Creating a 3D model](https://forum.paradoxplaza.com/forum/threads/tutorial-creating-a-3d-model-part-ii.1387882/): this tutorial is for Imperator but most of it applies for CK3
 
 #### Videos
 
