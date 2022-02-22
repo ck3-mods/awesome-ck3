@@ -2,29 +2,39 @@
 
 > A list of resources for modding CK3 as well as a wiki to help CK3 modding
 
-## Contents
+- [Wiki](#wiki)
+- [Communities](#communities)
+- [Help](#help)
+  - [Websites](#websites)
+  - [Documentation](#documentation)
+  - [Guides and tutorials](#guides-and-tutorials)
+    - [General advice](#general-advice)
+    - [Events](#events)
+    - [UI](#ui)
+    - [3D modeling](#3d-modeling)
+    - [Videos](#videos)
+- [Software and applications](#software-and-applications)
+  - [Mod management](#mod-management)
+  - [Graphical modding](#graphical-modding)
+  - [Other Tools](#other-tools)
+- [Contribute](#contribute)
 
-- [Awesome CK3 ![Awesome](https://awesome.re)](#awesome-ck3-)
-  - [Contents](#contents)
-  - [Help](#help)
-    - [Websites](#websites)
-    - [Documentation](#documentation)
-    - [Guides and tutorials](#guides-and-tutorials)
-      - [Videos](#videos)
-  - [Software and applications](#software-and-applications)
-    - [Mod management](#mod-management)
-    - [Graphical modding](#graphical-modding)
-    - [Other Tools](#other-tools)
-  - [Communities](#communities)
-  - [Contribute](#contribute)
+## Wiki
+
+⚠⚠️ ️Actual documentation and guides for this project and for CK3 will be available in the [project's wiki](<https://github.com/ck3-mods/awesome-ck3/wiki>). ⚠️ ⚠️
+
+## Communities
+
+- [CK3 User Mods](https://forum.paradoxplaza.com/forum/forums/crusader-kings-iii-user-mods.1080/): official forum for CK3 mods
+- [Crusader Kings](https://discord.gg/ck3): Crusader Kings official Discord modding channel. Go to the server-roles channel and choose CK3 Modding in the [Channel Access post](https://discordapp.com/channels/616881873506795550/710484698924711976/710490306788982804)
+- [CK3 Mod Co-op](https://discord.gg/apEvxDZ): this discord is where you can recruit people for your mod, show off stuff, and ask modders for help when you need it. It also serves as a central hub for modding in CK3. You can find invite links to most large mods on it.
 
 ## Help
 
 ### Websites
 
 About this section. Optional. Keep this short and focus on the list.
-
-- [CK3 User Mods](https://forum.paradoxplaza.com/forum/forums/crusader-kings-iii-user-mods.1080/): official forum for CK3 mods
+These are official and unofficial documentation about the CK3 script language.
 
 ### Documentation
 
@@ -82,11 +92,6 @@ Useful tools and applications for modding or mod management.
 
 - [CWTools](https://cwtools.github.io): a syntax analysis tool that can be used in IDE (VSCode) or some custom projects (used in Irony Mod Manager for example)
 - [PDX Unlimiter](https://github.com/crschnick/pdx_unlimiter): a save editing software for Paradox games. Raw CK3 save editing is supported though advanced and more fancy editing GUI tools are still to come
-
-## Communities
-
-- [Crusader Kings](https://discord.gg/ck3): Crusader Kings official Discord modding channel. Go to the server-roles channel and choose CK3 Modding in the [Channel Access post](https://discordapp.com/channels/616881873506795550/710484698924711976/710490306788982804)
-- [CK3 Mod Co-op](https://discord.gg/apEvxDZ): this discord is where you can recruit people for your mod, show off stuff, and ask modders for help when you need it. It also serves as a central hub for modding in CK3. You can find invite links to most large mods on it.
 
 ## Contribute
 
