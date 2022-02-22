@@ -83,6 +83,7 @@ Useful tools and applications for modding or mod management.
 
 - [Mayan and Photoshop exporters](https://ck3.paradoxwikis.com/Exporters): exporter tools that Paradox provides 'as-is'. These can be used to export textures from Photoshop and meshes/animations from Maya. More documentation can be found on the [Stellaris wiki](https://stellaris.paradoxwikis.com/Maya_exporter)
 - [Mesh editor for Blender and Maya](https://github.com/ross-g/io_pdx_mesh): allow editing of mesh and animation files used in the various Clausewitz Engine games in both Maya and Blender
+- [Chasm Terrain Shader](https://github.com/terrapass/ck3-modutil-chasm-shader): this is a chasm brush for the CK3 map editor. Could also be useful if you want to learn how to mod your own brushes :)
 
 ### Other Tools
 
